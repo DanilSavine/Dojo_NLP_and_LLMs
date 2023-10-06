@@ -1,1 +1,1 @@
-# MasterCourse_NLP_and_LLMs
+# Dojo for NLPs and LLMs
